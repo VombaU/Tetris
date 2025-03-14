@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+*.csproj
+*.resx
+*.sln
+*.dll
+*.lib
