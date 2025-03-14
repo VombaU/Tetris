@@ -6,6 +6,4 @@ Source Code/
 *.csproj
 *.resx
 *.sln
-*.dll
 *.lib
-*.exe
