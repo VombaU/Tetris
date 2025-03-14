@@ -1,6 +1,8 @@
 .vs/
 bin/
 obj/
+Tetris/
+Source Code/
 *.csproj
 *.resx
 *.sln
